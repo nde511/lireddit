@@ -21,4 +21,4 @@ qwoieu9012798quw9euoe1i2uo -> sess:qwoeiuowqjoqjw
 server makes a request to redis
 sess:qwoeiuowqjoqjw -> { userId: 1 }
 
-req.session = { userId: 1 }
+req.session = { userId: 1 } nde_0a
